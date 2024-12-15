@@ -1,0 +1,96 @@
+[
+    {
+        "name": "Dr. Orlando Dania",
+        "specialties": [
+            "mastología",
+            "oncología"
+        ],
+        "url": "https://guiasaludyvida.com/dr-orlando-dania/",
+        "thumbnail": "https://guiasaludyvida.com/wp-content/uploads/2023/01/orlando-dania.jpg",
+        "hospital": "Clínica Chilemex",
+        "office": "Torre 1, Planta Baja, Consultorio #11",
+        "location": "Puerto Ordaz – Estado Bolívar",
+        "schedule": "Lunes a Viernes",
+        "phones": []
+    },
+    {
+        "name": "Dra. Donnerys Rivas",
+        "specialties": [
+            "oncología"
+        ],
+        "url": "https://guiasaludyvida.com/dra-donnerys-rivas/",
+        "thumbnail": "https://guiasaludyvida.com/wp-content/uploads/2024/02/DRA.-DONNERYS-RIVAS.png",
+        "hospital": "Clínica Puerto Ordaz",
+        "office": "Torre II, Piso 3, Consultorio #12",
+        "location": "Puerto Ordaz – Estado Bolívar",
+        "schedule": "Lunes a Jueves",
+        "phones": [
+            "04144598367",
+            "04121943324"
+        ]
+    },
+    {
+        "name": "Dr. Alexis R. Moreno Morillo",
+        "specialties": [
+            "mastología",
+            "oncología"
+        ],
+        "url": "https://guiasaludyvida.com/dr-alexis-r-moreno-morillo/",
+        "thumbnail": "https://guiasaludyvida.com/wp-content/uploads/2019/10/alexis-moreno.jpg",
+        "hospital": "Clínica Chilemex",
+        "office": "Torre I, Planta Baja, Consultorio #5, #7 y #8",
+        "location": "Puerto Ordaz – Estado Bolívar",
+        "schedule": "Lunes a Viernes",
+        "phones": [
+            "04249093354"
+        ]
+    },
+    {
+        "name": "Dra. María José Espinoza",
+        "specialties": [
+            "mastología",
+            "oncología"
+        ],
+        "url": "https://guiasaludyvida.com/dra-maria-jose-espinoza/",
+        "thumbnail": "https://guiasaludyvida.com/wp-content/uploads/2019/10/maria-jose-espinoza.jpg",
+        "hospital": "Clínica Chilemex",
+        "office": "Torre I, Planta Baja, Consultorios #5, #7 y #8",
+        "location": "Puerto Ordaz – Estado Bolívar",
+        "schedule": "Lunes a Viernes",
+        "phones": [
+            "04249093354"
+        ]
+    },
+    {
+        "name": "Dra. Assia Navas",
+        "specialties": [
+            "mastología"
+        ],
+        "url": "https://guiasaludyvida.com/dra-assia-navas/",
+        "thumbnail": "https://guiasaludyvida.com/wp-content/uploads/2024/02/DRA.-ASSIA-NAVAS.png",
+        "hospital": "Clínica Chilemex",
+        "office": "Torre 2, Piso 4, Consultorio #10",
+        "location": "Puerto Ordaz – Estado Bolívar",
+        "schedule": "Lunes y Miércoles",
+        "phones": [
+            "02869239555",
+            "04144547971"
+        ]
+    },
+    {
+        "name": "Dra. Crismar Rodríguez",
+        "specialties": [
+            "mastología"
+        ],
+        "url": "https://guiasaludyvida.com/dra-crismar-rodriguez/",
+        "thumbnail": "https://guiasaludyvida.com/wp-content/uploads/2024/02/DRA.-CRISMAR-RODRIGUEZ.png",
+        "hospital": "Clínica La Esperanza",
+        "office": "Piso 2, Área de Consultorios – Calle Caura, Av. Guayana, Sector Alta Vista",
+        "location": "Puerto Ordaz – Estado Bolívar",
+        "schedule": "Viernes",
+        "phones": [
+            "04148692713",
+            "02125086238"
+        ]
+    }
+]
